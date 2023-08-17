@@ -5,12 +5,12 @@
 }
 
 body{
-margin: auto;
+width: 100%;
 }
 
 #main{
-    width: 600px;
-    height: 600px;
+    width: 25%;
+    height: 705px;
     border: 10px solid pink;
     margin: auto;
     margin-top: 300px;
@@ -20,8 +20,7 @@ margin: auto;
 }
 
 #main img{
-   margin-left: 50px;  
-   margin-top: 20px; 
+    width: 100%;
 }
 
 #main h1{
